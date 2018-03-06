@@ -1,0 +1,10 @@
+$spaces: (
+  0: 0,
+  1: 0.25rem,
+  2: 0.5rem
+);
+
+@include trumps-maker($spaces, 'm', 'margin');
+@include trumps-maker($spaces, 'mt', 'margin-top');
+@include trumps-maker($spaces, 'my', 'margin-top', 'margin-bottom');
+@include trumps-maker($spaces, 'pr', 'padding-right');

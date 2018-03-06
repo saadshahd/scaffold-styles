@@ -1,0 +1,7 @@
+$alignments: (
+  right,
+  center,
+  left
+);
+
+@include trumps-maker($alignments, 'text', 'text-align');

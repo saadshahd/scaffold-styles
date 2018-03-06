@@ -1,0 +1,9 @@
+{
+  "name": "scaffold-styles",
+  "description": "Scaffolded styles",
+  "dependencies": {
+    "modern-normalize": "^0.4.0",
+    "scss-mixin-object-scroller": "^1.0.0",
+    "scss-mixin-trump-maker": "^1.0.2"
+  }
+}
